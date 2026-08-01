@@ -1,0 +1,13 @@
+name = "Not So Creeping Vines"
+filename = "NotSoCreepingVines-neoforge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FssJ8BFG/versions/fAHXVnef/NotSoCreepingVines-neoforge-1.0.jar"
+hash-format = "sha512"
+hash = "afcbdaa3ecebfef314ef84ca58912a211a01d5f3c61aeb49f27c9b091211c0c3e364d81d07d9f0d5b347c1c44342ed263eed3ea114f03baf2b1fe48b8f76e4c9"
+
+[update]
+[update.modrinth]
+mod-id = "FssJ8BFG"
+version = "fAHXVnef"

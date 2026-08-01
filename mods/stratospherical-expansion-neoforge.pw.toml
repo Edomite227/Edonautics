@@ -1,0 +1,13 @@
+name = "Stratospherical Expansion NeoForge"
+filename = "strato-0.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cPIvKckI/versions/6M8bd5PX/strato-0.4.6.jar"
+hash-format = "sha512"
+hash = "af4f6d73d2e06499de8aaf60fbc6ef775e1fca3ab870c9f87553590fa477c3a0650ff6eecd05d27e56823a6004cb38f85a6eda74e014d235de3db5c5a6a12f52"
+
+[update]
+[update.modrinth]
+mod-id = "cPIvKckI"
+version = "6M8bd5PX"

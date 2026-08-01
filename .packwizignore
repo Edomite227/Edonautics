@@ -1,0 +1,16 @@
+# Exclude .md
+*.md
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude Mac metadata files
+.DS_Store
+
+# Exclude other files
+git
+LICENSE
+.github
+.gitattributes
+.gitignore
+*.disabled

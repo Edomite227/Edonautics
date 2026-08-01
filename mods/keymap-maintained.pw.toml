@@ -1,0 +1,13 @@
+name = "Keymap [Maintained]"
+filename = "keymap-NeoForge-0.10.1-beta.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8b8sY7tn/versions/FuykJxwH/keymap-NeoForge-0.10.1-beta.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d0546cceef907f61b8b8ed4bf07d51eae2ae07b4e7d6e607cf5824addb55f47429e5d746a866b6b18b821d0d50ecc63d16ca665644c696170caa5e925559e6bb"
+
+[update]
+[update.modrinth]
+mod-id = "8b8sY7tn"
+version = "FuykJxwH"

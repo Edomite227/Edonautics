@@ -1,0 +1,7 @@
+[general]
+	#Disable random ticks for overworld vines.
+	disableVines = true
+	#Disable random ticks for weeping/twisting vines and their plant blocks.
+	disableNetherVines = true
+	#Disable random ticks for cave vines (glow berries).
+	disableGlowBerries = true

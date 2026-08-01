@@ -14,3 +14,8 @@ LICENSE
 .gitattributes
 .gitignore
 *.disabled
+
+# Exclude nix development files
+flake.lock
+flake.nix
+shell.nix

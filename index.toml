@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+hash = "fac7c0dbd53560fb68049fb622fc5a07b31bda223768e1d22bd204fa4aba1cb4"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
+hash = "adc74970921ba8b9d89902cf40c049480405047f91dd93ddf19ed3a4403e3d02"
 metafile = true
 
 [[files]]
@@ -1305,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+hash = "78aaa11968da907e8ae5eec2368bcf362a1b414930d4e80a9643d15de02742f3"
 metafile = true
 
 [[files]]

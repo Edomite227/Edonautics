@@ -1109,6 +1109,11 @@ hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "5b735fd1942d9249430cf6428628d4cca570eaffe6b189756ca9e9a3fbdcf152"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true

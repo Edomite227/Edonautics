@@ -1,12 +1,12 @@
 name = "Edonautics"
 author = "Edomite"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "df871cf27142dd7dee5d554034e1f16a67e8b96ecca09cc25f8ecda7d5f2b8b1"
+hash = "37d5567f479dd0fc7faaf6a261dac238bdb1b9c8320527b6d1735cff620bc56f"
 
 [versions]
 minecraft = "1.21.1"

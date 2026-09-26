@@ -939,6 +939,11 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "4188beb13ced0a2e90d166aa888f11ccb5ce04386b9fce92038de59e4d31e061"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
@@ -1221,6 +1226,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]

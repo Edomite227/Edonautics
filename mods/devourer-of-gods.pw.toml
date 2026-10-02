@@ -1,0 +1,13 @@
+name = "Devourer of Gods"
+filename = "dog-1.2.0-1.21.1-neoforge-hotfix1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xbaJsoWt/versions/hPi8KYdo/dog-1.2.0-1.21.1-neoforge-hotfix1.jar"
+hash-format = "sha512"
+hash = "e91163887ea79a7942fa1958b0dade70ab150e44265d4a2cfc928fd06cb9ba739e5716955441e1b77f3faf95c63b0d56b9530a3bfb3e25eb30ab2856786db6ec"
+
+[update]
+[update.modrinth]
+mod-id = "xbaJsoWt"
+version = "hPi8KYdo"

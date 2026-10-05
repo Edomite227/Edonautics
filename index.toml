@@ -1314,6 +1314,11 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
+file = "mods/reliable-requiem.pw.toml"
+hash = "628f1a34a80cd77e6ea49ef3f32b27bb1232869ea56c9d946273be0d635b4ed9"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
